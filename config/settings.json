@@ -1,0 +1,20 @@
+{
+  "engine": "vieneu",
+  "edge_voice": "vi-VN-HoaiMyNeural",
+  "vieneu_voice": "custom::vn_despina_6",
+  "vieneu_device": "cpu",
+  "speed": 1.0,
+  "volume": 1.0,
+  "chunk_size": 180,
+  "export_workers": 4,
+  "vieneu_threads": 8,
+  "auto_next": true,
+  "use_cache": true,
+  "last_folder": "E:/chuyendoivanbanthanhamthanh/truyen_chu/H_Nang/HDTT2MC/Hiếp dâm tập thể 2 mẹ con",
+  "export_dir": "E:/chuyendoivanbanthanhamthanh/viet_tts_reader/audio_exports/con_duong_ba_chu",
+  "kaggle_dataset_slug": "viettt-tts-input",
+  "kaggle_kernel_slug": "mrpeople1413/vieneu-tts-server",
+  "kaggle_batch_voice": "Ngọc Lan — nữ, giọng dịu dàng",
+  "kaggle_batch_size": 10,
+  "kaggle_poll_sec": 40
+}

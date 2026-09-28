@@ -1,0 +1,7 @@
+__pycache__/  
+_kaggle_staging/  
+audio_exports/  
+cache/  
+models/  
+voices/  
+kaggle.json 
