@@ -1,0 +1,8 @@
+{
+  "name": "vietnamese-tts-audiobook-reader",
+  "description": "Ứng dụng đọc truyện tiếng Việt tự nhiên với Edge TTS, quản lý batch Kaggle VieNeu, đọc theo đoạn văn và xuất file MP3.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
